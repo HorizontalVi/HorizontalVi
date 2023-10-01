@@ -10,6 +10,7 @@
   <a href="https://t.me/somedayoung">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=HorizontalVi&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### About me
