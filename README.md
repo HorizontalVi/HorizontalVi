@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/216656947-44e5d67b-e907-4646-99da-6a4b4f52ef81.gif"  width="100"/>
+    <img src="https://user-images.githubusercontent.com/74038190/216656947-44e5d67b-e907-4646-99da-6a4b4f52ef81.gif"  width="200"/>
     <h1>Hi there, I'm  Alibek </h1>
     <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" /> 
     <h3>Java Junior Developer from Astana</h3>
