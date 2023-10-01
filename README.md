@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" height="300" width="500"/>
     <h1>Hi there, I'm  Alibek </h1>
+    <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" /> 
     <h3>Java Junior Developer from Astana</h3>
 </div>
 
