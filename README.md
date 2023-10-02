@@ -35,7 +35,7 @@
 
 ---
 
-### Languages and tools
+### :hammer_and_wrench: Languages and Tools :
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@
 
 
 
-### My stat
+### :fire: My Stats :
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HorizontalVi&theme=github_dark" alt=""/>
