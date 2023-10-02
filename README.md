@@ -29,7 +29,7 @@
 
 ---
 
-### About me
+:woman_technologist: About Me :
 - 🌱 I’m currently learning **Java**
 - 📄 Know about my experiences 
 - 📫 Reach me by [email](mailto:horizontalview91@gmail.com)
