@@ -2,19 +2,20 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <h1>Hi there, I'm  Alibek </h1>
     <div id="badges">
-  <a href="https://vk.com/alken1t">
+  <a href="https://vk.com/troublemak">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
-  <a href="alken1t15@gmail.com">
+  <a href="horizontalview91@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.instagram.com/alken1t/">
+  <a href="https://www.instagram.com/a.kalibekoff/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
      <a href="https://t.me/somedayoung">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+    <img src="https://komarev.com/ghpvc/?username=alken1t15&style=flat-square&color=blue" alt=""/>
     <h3>Java Junior Developer from Astana</h3>
 </div>
 
