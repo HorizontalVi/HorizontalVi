@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-    <img src="https://komarev.com/ghpvc/?username=alken1t15&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=HorizontalVi&style=flat-square&color=blue" alt=""/>
     <h3>Java Junior Developer from Astana</h3>
 </div>
 
