@@ -20,9 +20,7 @@
 </div>
 
 <div id="socials" align="center">
-
 </div>
-<img src="https://komarev.com/ghpvc/?username=HorizontalVi&style=flat-square&color=blue" alt=""/>
 
 ### About me
 - 🌱 I’m currently learning **Java**
