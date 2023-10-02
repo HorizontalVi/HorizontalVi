@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <h2>Hi there, I'm  Alibek </h2>
     <div id="badges">
   <a href="https://vk.com/troublemak">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
