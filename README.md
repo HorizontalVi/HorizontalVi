@@ -27,6 +27,8 @@
 <div id="socials" align="center">
 </div>
 
+---
+
 ### About me
 - 🌱 I’m currently learning **Java**
 - 📄 Know about my experiences 
