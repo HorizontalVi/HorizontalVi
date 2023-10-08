@@ -23,8 +23,6 @@
 <div id="socials" align="center">
 </div>
 
----
-
 :woman_technologist: About Me :
 - 🌱 I’m currently learning **Java**
 - 📄 Know about my experiences 
