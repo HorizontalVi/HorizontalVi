@@ -1,6 +1,6 @@
 <div id="header" align="center">
     
-    <div id="badges">
+    
   <a href="https://vk.com/troublemak">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
